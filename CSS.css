@@ -1,0 +1,48 @@
+body{
+background-image:radial-gradient(red,yellow,green,blue,black,white,grey);	
+	
+	
+}
+.a{
+border:10px solid red;	
+width:50%;
+background-image:url(IMAGE1.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+height:700px;
+font-size:30px;
+padding-top:60px;
+color:aqua;
+font-family:fantasy;
+	
+}
+H1{
+color:red;
+font-family:fantasy;	
+	
+	
+	
+	
+}
+table{
+	background-color:red;
+	
+	
+}
+th{
+	color:blue;
+	font-family:fantasy;
+	
+	
+}
+td{
+color:yellow;
+font-family:cursive;
+	
+	
+	
+}
+
+	
+	
+
